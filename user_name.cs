@@ -46,7 +46,7 @@ namespace poepart2
                 //write the name in a text file
                 File.AppendAllText(filename, name + "\n");
                 //then welcome the user
-                error_method("ChatBot", "Hey " + name + "  welcome to AI cybersecurity", chats);
+                error_method("ChatBot", "Hello " + name + "  welcome to AI cybersecurity", chats);
 
             }//end of if
             else
