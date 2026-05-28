@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace demo
+namespace poepart2
 {
     public class respond
     {
@@ -298,7 +298,7 @@ namespace demo
             // ── GREETINGS ──
             add_answers.Add("greeting i'm doing well, thanks for asking! how are you doing today?");
             add_answers.Add("greeting i'm great today, thanks for asking! how can i help you today?");
-            add_answers.Add("greeting doing good! hope you are also doing well today?");
+            add_answers.Add("greeting doing good today! hope you are also doing well today?");
             add_answers.Add("hello i'm doing well, thanks! how can i help you with cybersecurity today?");
             add_answers.Add("hello great to see you! ask me anything about staying safe online.");
             add_answers.Add("hi hello there! i'm your cybersecurity assistant. what would you like to know?");
