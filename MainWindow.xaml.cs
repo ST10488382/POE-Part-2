@@ -52,7 +52,8 @@ namespace demo
         private readonly HashSet<string> moreWords = new HashSet<string>
         {
             "more","another","again","explain","elaborate","expand",
-            "detail","details","continue","further","else","tip","tips","repeat"
+            "detail","details","continue","further","else","tip","tips","repeat",
+            "further","else","tip","repeat"
         };
 
         // ── Constructor ──
