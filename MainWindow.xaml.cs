@@ -1,4 +1,4 @@
-﻿using demo;
+﻿using poepart2;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -45,7 +45,7 @@ namespace demo
         private readonly HashSet<string> sentimentWords = new HashSet<string>
         {
             "worried","concerned","scared","afraid","overwhelmed",
-            "curious","frustrated","confused","angry","sad","happy","excited"
+            "curious","frustrated","confused","angry","sad","happy","excited","hopeful"
         };
 
         // ── Conversation-flow trigger words ──
